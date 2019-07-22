@@ -1,3 +1,12 @@
+//
+//						   MUX 4 EM 1
+//
+//		    	AUTOR: EDWILDSON C. RODRIGUES
+//
+//				   	 DATA:22/07/2018
+//
+
+
 module motor_de_passo(
 	input rst,
 	input dir,
