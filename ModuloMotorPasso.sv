@@ -15,11 +15,11 @@ module motor_de_passo(
 	output reg [3:0] sinal
 );
 
-	localparam sin0 = 4'b0000;
-	localparam sin1 = 4'b0001;
-	localparam sin2 = 4'b0010;
-	localparam sin3 = 4'b0100;
-	localparam sin4 = 4'b1000;
+	localparam sin0 = 4'b000;
+	localparam sin1 = 4'b001;
+	localparam sin2 = 4'b010;
+	localparam sin3 = 4'b011;
+	localparam sin4 = 4'b100;
 	
 	reg [2:0] estado_atual, estado_prox;
 	
