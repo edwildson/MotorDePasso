@@ -1,9 +1,9 @@
 //
-//						   MUX 4 EM 1
+//						   MODULO DE CONTROLE DO MOTOR DE PASSO
 //
 //		    	AUTOR: EDWILDSON C. RODRIGUES
 //
-//				   	 DATA:22/07/2018
+//				   	 DATA:22/07/2019
 //
 
 
